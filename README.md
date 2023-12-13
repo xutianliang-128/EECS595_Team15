@@ -10,7 +10,6 @@ The topic is: [< Physical Action-Effect Prediction with GPT and CLIP >]
     clip >= 1.0
     numpy
     tqdm
-    
 ```
 
 ## CLIP Usage
