@@ -1,0 +1,1 @@
+# Put the dataset action_effect_image_rs to this folder
