@@ -31,6 +31,9 @@ The images are converted to RGB format if they are not already. The dataset is d
 ### Model Interaction
 
 The `run_model` function is used to send batches of images to the GPT-4 model. You need to replace `api_key` with your OpenAI API key. The function processes the images in batches and retrieves the model's responses.
+```
+api_key = "YOUR_OPENAI_KEY"
+```
 
 ### Data Processing and Analysis
 
